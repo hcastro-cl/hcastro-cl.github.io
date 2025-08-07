@@ -1,6 +1,17 @@
 <cursos>
     <sets>
         <set>
+            <legend>Ecuaciones Diferenciales Ordinarias (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>edo-ing</dir>
+            <apunte>apunte-edo.pdf</apunte>
+            <syllabus>syllabus-edo-ingeci-pri2018.pdf</syllabus>
+            <year>2025</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral en donde se estudian ecuaciones diferenciales ordinarias de primer orden, de orden superior, sistemas de EDOs lineales y la transformada de Laplace.</abst>
+        </set>
+        <set>
             <legend>Matemática (C.P.A.)</legend>
             <pic>book.jpg</pic>
             <dir>mat-cpa</dir>
@@ -36,6 +47,7 @@
             <legend>Métodos Variacionales</legend>
             <pic>book.webp</pic>
             <dir>mvar</dir>
+            <apunte>apunte-metodos_variacionales.pdf</apunte>
             <syllabus>syllabus-mv-2024.pdf</syllabus>
             <year>2024</year>
             <datei>June</datei>
@@ -261,6 +273,7 @@
             <legend>Métodos Variacionales</legend>
             <pic>book.webp</pic>
             <dir>mvar</dir>
+            <apunte>apunte-metodos_variacionales.pdf</apunte>
             <syllabus>syllabus-mv-2019.pdf</syllabus>
             <year>2019</year>
             <datei>September</datei>
