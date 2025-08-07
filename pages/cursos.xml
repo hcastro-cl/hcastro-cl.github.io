@@ -1,0 +1,534 @@
+<cursos>
+    <sets>
+        <set>
+            <legend>Matemática (C.P.A.)</legend>
+            <pic>book.jpg</pic>
+            <dir>mat-cpa</dir>
+            <!--<apunte>apunte-calculo.pdf</apunte>-->
+            <syllabus></syllabus>
+            <year>2025</year>
+            <datei>March</datei>
+            <datef>December</datef>
+            <abst>Curso anual en donde se entrega una formación básica en álgebra y cálculo diferencial .</abst>
+        </set>
+        <set>
+            <legend>Ecuaciones Diferenciales Ordinarias (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>edo-ing</dir>
+            <apunte>apunte-edo.pdf</apunte>
+            <syllabus>syllabus-edo-ingeci-pri2018.pdf</syllabus>
+            <year>2025</year>
+            <datei>March</datei>
+            <datef>July</datef>
+            <abst>Curso semestral en donde se estudian ecuaciones diferenciales ordinarias de primer orden, de orden superior, sistemas de EDOs lineales y la transformada de Laplace.</abst>
+        </set>
+        <set>
+            <legend>Complementos de Análisis</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis4</dir>
+            <!--<syllabus>syllabus-analisisIV-2021.pdf</syllabus>-->
+            <year>2025</year>
+            <datei>March</datei>
+            <datef>June</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas fundamentales del análisis funcional.</abst>
+        </set>
+        <set>
+            <legend>Métodos Variacionales</legend>
+            <pic>book.webp</pic>
+            <dir>mvar</dir>
+            <syllabus>syllabus-mv-2024.pdf</syllabus>
+            <year>2024</year>
+            <datei>June</datei>
+            <datef>September</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se revisan algunos resultados relativos a métodos variacionales y algunas aplicaciones al estudio de ecuaciones diferenciales parciales.</abst>
+        </set>
+        <set>
+            <legend>Matemática (C.P.A.)</legend>
+            <pic>book.jpg</pic>
+            <dir>mat-cpa</dir>
+            <!--<apunte>apunte-calculo.pdf</apunte>-->
+            <syllabus></syllabus>
+            <year>2024</year>
+            <datei>March</datei>
+            <datef>December</datef>
+            <abst>Curso anual en donde se entrega una formación básica en álgebra y cálculo diferencial .</abst>
+        </set>
+        <set>
+            <legend>Matemática (Auditoría)</legend>
+            <pic>book.jpg</pic>
+            <dir>mat-au</dir>
+            <!--<apunte>apunte-calculo.pdf</apunte>-->
+            <syllabus></syllabus>
+            <year>2024</year>
+            <datei>March</datei>
+            <datef>December</datef>
+            <abst>Curso anual en donde se entrega una formación básica en álgebra y cálculo diferencial .</abst>
+        </set>
+        <set>
+            <legend>Complementos de Análisis</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis4</dir>
+            <!--<syllabus>syllabus-analisisIV-2021.pdf</syllabus>-->
+            <year>2024</year>
+            <datei>March</datei>
+            <datef>June</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas fundamentales del análisis funcional.</abst>
+        </set>
+        <set>
+            <legend>Matemáticas II (Tec. Médica)</legend>
+            <pic>book.webp</pic>
+            <dir>mat2-tm</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus></syllabus>
+            <year>2023</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral en donde se estudian límites, derivadas e integrales.</abst>
+        </set> 
+        <set>
+            <legend>Cálculo I (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>calc1-ing</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus></syllabus>
+            <year>2023</year>
+            <datef>December</datef>
+            <datei>August</datei>
+            <abst>Curso semestral en donde se estudian funciones, límites y derivadas.</abst>
+        </set>
+        <set>
+            <legend>Espacios de Sobolev y EDP</legend>
+            <pic>book.jpg</pic>
+            <dir>sob-edp</dir>
+            <syllabus></syllabus>
+            <year>2023</year>
+            <datei>June</datei>
+            <datef>September</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen los espacios de Sobolev y el uso de estos para el estudio de ecuaciones diferenciales parciales.</abst>
+        </set>
+        <set>
+            <legend>Cálculo II (Agronomía)</legend>
+            <pic>book.webp</pic>
+            <dir>calc2-agro</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus></syllabus>
+            <year>2023</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <abst>Curso semestral en donde se estudian integrales definidas, ecuaciones diferenciales y cálculo en varias variables.</abst>
+        </set>
+        <set>
+            <legend>Matemáticas I (Ing. Inf. Empresarial)</legend>
+            <pic>book.png</pic>
+            <dir>mat1-iie</dir>
+            <apunte></apunte>
+            <syllabus></syllabus>
+            <year>2023</year>
+            <datei>March</datei>
+            <datef>July</datef>
+            <abst>Curso semestral en donde se introducen conceptos de lógica, conjuntos, principios de conteo y matrices.</abst>
+        </set>
+        <set>
+            <legend>Teoremas de punto fijo y ecuaciones diferenciales</legend>
+            <dir>ev-2023</dir>
+            <pic>book.png</pic>
+            <apunte>ev2023.pdf</apunte>
+            <year>2023</year>
+            <datei>January</datei>
+            <datef>January</datef>
+            <abst>Cursillo para la escuela de verano del Instituto de Matemáticas de la Universidad de Talca.</abst>
+        </set>
+        <set>
+            <legend>Cálculo I (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>calc1-ing</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus></syllabus>
+            <year>2022</year>
+            <datef>December</datef>
+            <datei>August</datei>
+            <abst>Curso semestral en donde se estudian funciones, límites y derivadas.</abst>
+        </set>
+        <set>
+            <legend>Matemáticas II (Adm. Pública)</legend>
+            <pic>book.jpg</pic>
+            <dir>calc-ap</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus></syllabus>
+            <year>2022</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral en donde se estudian límites, derivadas e integrales.</abst>
+        </set>        
+        <set>
+            <legend>Cálculo II (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>calc2-ing</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus></syllabus>
+            <year>2022</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <abst>Curso semestral en donde se estudia integración en una variable y series.</abst>
+        </set>
+        <set>
+            <legend>Cálculo (Ing. Comercial)</legend>
+            <pic>book.jpg</pic>
+            <dir>calc-ic</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus></syllabus>
+            <year>2022</year>
+            <datei>March</datei>
+            <datef>July</datef>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, series, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+		<set>
+            <legend>Análisis III</legend>
+            <pic>book.webp</pic>
+            <dir>analisis3</dir>
+            <apunte>apunte-analisis_complejo.pdf</apunte>
+            <syllabus>syllabus-analisisIII-2021.pdf</syllabus>
+            <year>2021</year>
+            <datei>September</datei>
+            <datef>December</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas básicas del análisis complejo.</abst>
+            <pic></pic>
+        </set>
+		<set>
+            <legend>Análisis II</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis2</dir>
+            <apunte>apunte-medida_e_integracion.pdf</apunte>
+            <syllabus>syllabus-analisisII-2021.pdf</syllabus>
+            <year>2021</year>
+            <datei>June</datei>
+            <datef>September</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen los conceptos de medida en integración.</abst>
+        </set>
+		<set>
+            <legend>Complementos de Análisis</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis4</dir>
+            <syllabus>syllabus-analisisIV-2021.pdf</syllabus>
+            <year>2021</year>
+            <datei>March</datei>
+            <datef>June</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas fundamentales del análisis funcional.</abst>
+        </set>
+        <set>
+            <legend>Análisis III</legend>
+            <pic>book.webp</pic>
+            <dir>analisis3</dir>
+            <apunte>apunte-analisis_complejo.pdf</apunte>
+            <syllabus>syllabus-analisisIII-2020.pdf</syllabus>
+            <year>2020</year>
+            <datei>September</datei>
+            <datef>December</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas básicas del análisis complejo.</abst>
+            <pic></pic>
+        </set>
+        <set>
+            <legend>Análisis II</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis2</dir>
+            <apunte>apunte-medida_e_integracion.pdf</apunte>
+            <syllabus>syllabus-analisisII-2020.pdf</syllabus>
+            <year>2020</year>
+            <datei>June</datei>
+            <datef>September</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen los conceptos de medida en integración.</abst>
+        </set>
+        <set>
+            <legend>Complementos de Análisis</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis4</dir>
+            <syllabus>syllabus-analisisIV-2020.pdf</syllabus>
+            <year>2020</year>
+            <datei>March</datei>
+            <datef>June</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas fundamentales del análisis funcional.</abst>
+            <!--<tareas>
+                <tarea>tarea1-2020.pdf</tarea>
+                <tarea>tarea2-2020.pdf</tarea>
+                <tarea>tarea3-2020.pdf</tarea>
+                <tarea>tarea4-2020.pdf</tarea>
+            </tareas>
+            <ayudantias>
+                <ayudantia>ayudantía 7-4-2020.pdf</ayudantia>
+            </ayudantias>-->
+        </set>
+        <set>
+            <legend>Métodos Variacionales</legend>
+            <pic>book.webp</pic>
+            <dir>mvar</dir>
+            <syllabus>syllabus-mv-2019.pdf</syllabus>
+            <year>2019</year>
+            <datei>September</datei>
+            <datef>December</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se revisan algunos resultados relativos a métodos variacionales y algunas aplicaciones al estudio de ecuaciones diferenciales parciales.</abst>
+        </set>
+        <set>
+            <legend>Matemáticas II (Ing. Inf. Empresarial)</legend>
+            <pic>book.png</pic>
+            <dir>mat2-iie</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-mat2-iie-pri2019.pdf</syllabus>
+            <year>2019</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Ecuaciones Diferenciales Ordinarias (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>edo-ing</dir>
+            <syllabus>syllabus-edo-ingeci-pri2019.pdf</syllabus>
+            <year>2019</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral en donde se estudian ecuaciones diferenciales ordinarias de primer orden, de orden superior, sistemas de EDOs lineales y la transformada de Laplace.</abst>
+        </set>
+        <set>
+            <legend>Matemáticas III (Ing. Inf. Empresarial)</legend>
+            <pic>book.jpg</pic>
+            <dir>mat3-iie</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-mat3-iie-oto2019.pdf</syllabus>
+            <year>2019</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Cálculo II (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>calc2-ing</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-calc2-ingeci-oto2019.pdf</syllabus>
+            <year>2019</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <abst>Curso semestral en donde se estudia integración en una variable y series.</abst>
+        </set>
+        <set>
+            <legend>Espacios de Sobolev y EDP</legend>
+            <pic>book.jpg</pic>
+            <dir>sob-edp</dir>
+            <syllabus>syllabus-edp-2018.pdf</syllabus>
+            <year>2018</year>
+            <datei>September</datei>
+            <datef>December</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen los espacios de Sobolev y el uso de estos para el estudio de ecuaciones diferenciales parciales.</abst>
+        </set>
+        <set>
+            <legend>Ecuaciones Diferenciales Ordinarias (Ing. Civil)</legend>
+            <pic>book.webp</pic>
+            <dir>edo-ing</dir>
+            <apunte>apunte-edo.pdf</apunte>
+            <syllabus>syllabus-edo-ingeci-pri2018.pdf</syllabus>
+            <year>2018</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral en donde se estudian ecuaciones diferenciales ordinarias de primer orden, de orden superior, sistemas de EDOs lineales y la transformada de Laplace.</abst>
+        </set>
+        <set>
+            <legend>Cálculo (Ing. Comercial)</legend>
+            <pic>book.jpg</pic>
+            <dir>calc-ic</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-calc-ingeco-pri2018.pdf</syllabus>
+            <year>2018</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Cálculo (Auditoría)</legend>
+            <pic>book.jpg</pic>
+            <dir>calc-ic</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-calc-aud-oto2018.pdf</syllabus>
+            <year>2018</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Cálculo (Ing. Comercial)</legend>
+            <pic>book.jpg</pic>
+            <dir>calc-ic</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-calc-ingeco-oto2018.pdf</syllabus>
+            <year>2018</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Análisis II</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis2</dir>
+            <apunte>apunte-medida_e_integracion.pdf</apunte>
+            <syllabus>syllabus-analisisII-2017.pdf</syllabus>
+            <year>2017</year>
+            <datei>September</datei>
+            <datef>December</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen los conceptos de medida en integración.</abst>
+        </set>
+        <set>
+            <legend>Análisis III</legend>
+            <pic>book.webp</pic>
+            <dir>analisis3</dir>
+            <apunte>apunte-analisis_complejo.pdf</apunte>
+            <syllabus>syllabus-analisisIII-2017.pdf</syllabus>
+            <year>2017</year>
+            <datei>June</datei>
+            <datef>September</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas básicas del análisis complejo.</abst>
+            <pic></pic>
+        </set>
+        <set>
+            <legend>Complementos de Análisis</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis4</dir>
+            <syllabus>syllabus-analisisIV-2017.pdf</syllabus>
+            <year>2017</year>
+            <datei>March</datei>
+            <datef>June</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas fundamentales del análisis funcional.</abst>
+        </set>
+        <set>
+            <legend>El Teorema del punto fijo de Banach y aplicaciones</legend>
+            <dir>banach-ev</dir>
+            <year>2017</year>
+            <datei>January</datei>
+            <datef>January</datef>
+            <abst>Mini curso para la escuela de verano del Instituto de Matemáticas de la Universidad de Talca.</abst>
+        </set>
+        <set>
+            <legend>Análisis III</legend>
+            <pic>book.webp</pic>
+            <dir>analisis3</dir>
+            <apunte>apunte-analisis_complejo.pdf</apunte>
+            <syllabus>syllabus-analisisIII-2016.pdf</syllabus>
+            <year>2016</year>
+            <datei>September</datei>
+            <datef>December</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las herramientas básicas del análisis complejo.</abst>
+        </set>
+        <set>
+            <legend>Análisis II</legend>
+            <pic>book.jpg</pic>
+            <dir>analisis2</dir>
+            <apunte>apunte-medida_e_integracion.pdf</apunte>
+            <syllabus>syllabus-analisisII-2016.pdf</syllabus>
+            <year>2016</year>
+            <datei>June</datei>
+            <datef>September</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen los conceptos de medida en integración.</abst>
+        </set>
+        <set>
+            <legend>Análisis I</legend>
+            <pic>book.webp</pic>
+            <dir>analisis1</dir>
+            <apunte>apunte-analisis_real.pdf</apunte>
+            <syllabus>syllabus-analisisI-2016.pdf</syllabus>
+            <year>2016</year>
+            <datei>March</datei>
+            <datef>June</datef>
+            <abst>Curso trimestral, para el magíster y doctorado, en donde se introducen las técnicas de análisis real en espacios métricos y normados.</abst>
+        </set>
+        <set>
+            <legend>Álgebra (Agronomía)</legend>
+            <dir>alg-agro</dir>
+            <syllabus>syllabus-alg-agro-pri2015.pdf</syllabus>
+            <year>2015</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral donde se introducen conceptos de funciones en una variable real, límites, derivadas y algunas aplicaciones.</abst>
+        </set>
+        <set>
+            <legend>Matemática Aplicada (Agronomía)</legend>
+            <pic>book.jpg</pic>
+            <dir>mata-agro</dir>
+            <syllabus>syllabus-matapl-agro-oto-2015.pdf</syllabus>
+            <apunte>apunteMatApl.pdf</apunte>
+            <year>2015</year>
+            <datei>March</datei>
+            <datef>July</datef>
+            <abst>Curso semestral donde se incluyes modelos matemáticos aplicados a la agronomía, utilizando herramientas de cálculo, programación lineal y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Cálculo (Ing. Comercial)</legend>
+            <pic>book.jpg</pic>
+            <dir>calc-ic</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-calc-ingeco-oto2015.pdf</syllabus>
+            <year>2015</year>
+            <datei>March</datei>
+            <datef>July</datef>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Álgebra (Agronomía)</legend>
+            <pic>book.webp</pic>
+            <dir>alg-agro</dir>
+            <year>2014</year>
+            <datef>December</datef>
+            <datei>August</datei>
+            <syllabus>syllabus-alg-agro-pri2014.pdf</syllabus>
+            <abst>Curso semestral donde se introducen conceptos de funciones en una variable real, límites, derivadas y algunas aplicaciones.</abst>
+        </set>
+        <set>
+            <legend>Matemática Aplicada (Agronomía)</legend>
+            <pic>book.jpg</pic>
+            <dir>mata-agro</dir>
+            <year>2014</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <syllabus>syllabus-matapl-agro-oto-2014.pdf</syllabus>
+            <apunte>apunteMatApl.pdf</apunte>
+            <abst>Curso semestral donde se incluyes modelos matemáticos aplicados a la agronomía, utilizando herramientas de cálculo, programación lineal y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Cálculo (Ing. Comercial)</legend>
+            <pic>book.jpg</pic>
+            <dir>calc-ic</dir>
+            <apunte>apunte-calculo.pdf</apunte>
+            <syllabus>syllabus-calc-ingeco-oto2014.pdf</syllabus>
+            <year>2014</year>
+            <datef>July</datef>
+            <datei>March</datei>
+            <abst>Curso semestral en donde se introducen los conceptos de integración, cálculo en varias variables y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Espacios de Sobolev con peso y EDOs singulares</legend>
+            <dir>sob-peso-ev</dir>
+            <apunte>ev2014.pdf</apunte>
+            <year>2014</year>
+            <datei>January</datei>
+            <datef>January</datef>
+            <abst>Mini curso para la escuela de verano del Instituto de Matemáticas de la Universidad de Talca.</abst>
+        </set>
+        <set>
+            <legend>Matemática Aplicada (Agronomía)</legend>
+            <pic>book.jpg</pic>
+            <dir>mata-agro</dir>
+            <apunte>apunteMatApl.pdf</apunte>
+            <year>2013</year>
+            <datei>August</datei>
+            <datef>December</datef>
+            <abst>Curso semestral donde se incluyes modelos matemáticos aplicados a la agronomía, utilizando herramientas de cálculo, programación lineal y ecuaciones diferenciales.</abst>
+        </set>
+        <set>
+            <legend>Matemática Aplicada (Agronomía)</legend>
+            <pic>book.jpg</pic>
+            <dir>mata-agro</dir>
+            <apunte>apunteMatApl.pdf</apunte>
+            <year>2013</year>
+            <datei>March</datei>
+            <datef>July</datef>
+            <abst>Curso semestral donde se incluyes modelos matemáticos aplicados a la agronomía, utilizando herramientas de cálculo, programación lineal y ecuaciones diferenciales.</abst>
+        </set>
+    </sets>
+</cursos>
